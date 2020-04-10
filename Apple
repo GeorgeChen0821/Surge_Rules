@@ -1,0 +1,83 @@
+
+# > UA
+USER-AGENT,hide*,Apple
+USER-AGENT,MicroMessenger*,Apple
+USER-AGENT,PayPal*,Apple
+USER-AGENT,TeamViewer*,Apple
+USER-AGENT,TIM*,Apple
+USER-AGENT,ting_en,Apple
+USER-AGENT,WebTorrent*,Apple
+USER-AGENT,WeChat*,Apple
+# > Beplay
+DOMAIN-KEYWORD,beplay,Apple
+# > Blizzard
+DOMAIN-SUFFIX,battle.net,Apple
+DOMAIN-SUFFIX,battlenet.com,Apple
+DOMAIN-SUFFIX,blizzard.com,Apple
+# > Microsoft
+USER-AGENT,OneDrive*,Apple
+DOMAIN-KEYWORD,microsoft,Apple
+DOMAIN-SUFFIX,hotmail.com,Apple
+DOMAIN-SUFFIX,live.com,Apple
+DOMAIN-SUFFIX,live.net,Apple
+DOMAIN-SUFFIX,msn.com,Apple
+DOMAIN-SUFFIX,office.com,Apple
+DOMAIN-SUFFIX,office.net,Apple
+DOMAIN-SUFFIX,outlook.com,Apple
+DOMAIN-SUFFIX,windows.com,Apple
+DOMAIN-SUFFIX,windows.net,Apple
+DOMAIN-SUFFIX,windowsupdate.com,Apple
+# > Prior
+DOMAIN,client.amplifi.com,Apple
+DOMAIN,ip.bjango.com,Apple
+DOMAIN-SUFFIX,alphassl.com,Apple
+DOMAIN-SUFFIX,edu.cn,Apple
+# > Sony
+USER-AGENT,RemotePlay*,Apple
+DOMAIN-SUFFIX,playstation.com,Apple
+DOMAIN-SUFFIX,playstation.net,Apple
+DOMAIN-SUFFIX,playstationnetwork.com,Apple
+DOMAIN-SUFFIX,sony.com,Apple
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Apple
+# > Steam
+USER-AGENT,Steam*,Apple
+DOMAIN-SUFFIX,steamcontent.com,Apple
+# > TeamViewer
+IP-CIDR,185.188.32.0/24,Apple,no-resolve
+IP-CIDR,185.188.33.0/24,Apple,no-resolve
+IP-CIDR,185.188.34.0/24,Apple,no-resolve
+IP-CIDR,185.188.35.0/24,Apple,no-resolve
+IP-CIDR6,2a0b:b580::/48,Apple,no-resolve
+IP-CIDR6,2a0b:b581::/48,Apple,no-resolve
+IP-CIDR6,2a0b:b582::/48,Apple,no-resolve
+IP-CIDR6,2a0b:b583::/48,Apple,no-resolve
+IP-CIDR,1.255.62.0/24,Direct,no-resolve
+# > Apple
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,Apple
+USER-AGENT,%E8%AE%BE%E7%BD%AE*,Apple
+USER-AGENT,*com.apple.mobileme.fmip1,Apple
+USER-AGENT,*WeatherFoundation*,Apple
+USER-AGENT,AppleNews*,Apple
+USER-AGENT,AppStore*,Apple
+USER-AGENT,com.apple.appstored*,Apple
+USER-AGENT,com.apple.geod*,Apple
+USER-AGENT,com.apple.Maps,Apple
+USER-AGENT,com.apple.news*,Apple
+USER-AGENT,FindMyFriends*,Apple
+USER-AGENT,FindMyiPhone*,Apple
+USER-AGENT,FMDClient*,Apple
+USER-AGENT,FMFD*,Apple
+USER-AGENT,fmflocatord*,Apple
+USER-AGENT,geod*,Apple
+USER-AGENT,locationd*,Apple
+USER-AGENT,Maps*,Apple
+USER-AGENT,TestFlight*,Apple
+DOMAIN,apple.comscoreresearch.com,Apple
+DOMAIN-SUFFIX,apple.cn,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.news,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,itunes.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
