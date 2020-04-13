@@ -1,19 +1,6 @@
-
-# > UA
-USER-AGENT,hide*
-USER-AGENT,MicroMessenger*
-USER-AGENT,PayPal*
-USER-AGENT,TeamViewer*
-USER-AGENT,TIM*
-USER-AGENT,ting_en
-USER-AGENT,WebTorrent*
-USER-AGENT,WeChat*
 # > Beplay
 DOMAIN-KEYWORD,beplay
-# > Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+
 # > Microsoft
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,microsoft
