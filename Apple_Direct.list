@@ -11,5 +11,5 @@ DOMAIN-SUFFIX,content-storage-upload.googleapis.com // iCloud上传
 DOMAIN-SUFFIX,content-storage-download.googleapis.com // iCloud下载
 DOMAIN-SUFFIX,s3.dualstack.ap-southeast-1.amazonaws.com,DIRECT // iCloud 亚马逊
 DOMAIN-SUFFIX,icloud-content.com,DIRECT // iCloud
-DOMAIN-SUFFIX,ctyunapi.cn // 天翼云
-DOMAIN-SUFFIX,convection.cn // 联通云
+DOMAIN-SUFFIX,ctyunapi.cn // 天翼云 iCloud
+DOMAIN-SUFFIX,convection.cn // 联通云 iCloud
