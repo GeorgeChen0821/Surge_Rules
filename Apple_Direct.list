@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,me.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 PROCESS-NAME,storedownloadd
