@@ -1,5 +1,6 @@
 #!name=Ads in Video apps
 #!desc=视频网站广告拦截
+
 [Rule]
 # > iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com,Reject
