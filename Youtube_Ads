@@ -1,0 +1,12 @@
+#!name=Youtube Ads Block
+#!desc=Youtube 广告拦截
+
+[Rule]
+# > Youtube
+DOMAIN-SUFFIX,azabu-u.ac.jp,Reject
+DOMAIN-SUFFIX,couchcoaster.jp,Reject
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp,Reject
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com,Reject
+DOMAIN-SUFFIX,m-78.jp,Reject
+DOMAIN-SUFFIX,nichibenren.or.jp,Reject
+DOMAIN-SUFFIX,nicorette.co.kr,Reject
