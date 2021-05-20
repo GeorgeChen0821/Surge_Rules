@@ -87,13 +87,13 @@ DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
 URL-REGEX,https?://.+.atm.youku.com
 # > Youtube
-# DOMAIN-SUFFIX,azabu-u.ac.jp
-# DOMAIN-SUFFIX,couchcoaster.jp
-# DOMAIN-SUFFIX,delivery.dmkt-sp.jp
-# DOMAIN-SUFFIX,ehg-youtube.hitbox.com
-# DOMAIN-SUFFIX,m-78.jp
-# DOMAIN-SUFFIX,nichibenren.or.jp
-# DOMAIN-SUFFIX,nicorette.co.kr
+DOMAIN-SUFFIX,azabu-u.ac.jp
+DOMAIN-SUFFIX,couchcoaster.jp
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+DOMAIN-SUFFIX,m-78.jp
+DOMAIN-SUFFIX,nichibenren.or.jp
+DOMAIN-SUFFIX,nicorette.co.kr
 # > Site
 DOMAIN-SUFFIX,deliver.ifeng.com
 DOMAIN-SUFFIX,hxjs.tool.hexun.com
